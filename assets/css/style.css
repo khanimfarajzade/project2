@@ -1,0 +1,37 @@
+/* .f_name {
+    color: yellow;
+    font-size:44px ;
+} */
+body{
+  margin: 0%;  
+}
+#home,#move,#contact{
+    border-color: black;
+    padding: 5px;
+    border-style: ridge ;
+    border-radius: 5px;
+}
+#test{
+    border-bottom: solid rgb(236, 58, 58);
+    padding: 25px;
+    background-color: aquamarine;
+}
+div {
+    padding: 65px 40px;
+    margin: 0%;
+    background-color: blue;
+}
+h1.text{ 
+    padding: 30px;
+
+    border-left:solid white;
+    
+    margin: 0;
+   background-color: lightskyblue;
+}
+.alt{
+    padding: 0px;
+    margin-top: 0px;
+    border: 0px;
+    background-color: rgb(165, 42, 42);
+}
